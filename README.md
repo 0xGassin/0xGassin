@@ -5,7 +5,7 @@
 
 - 🔭 currently working on [CyberSanctus](https://cybersanctus.com/)
 
-- 📝 Find vulnerability blogs on [our blog page](https://cybersanctus.com/blogs)
+- 📝 Find vulnerability blogs on [our blog page](https://cybersanctus.com/blog)
 
 - 📫 Reach me **fvecchi@cybersanctus.com**
 
