@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">Frontend Developer | Penetration Tester</h3>
+<h3 align="center">CyberSanctus | Head of CyberSecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xgassin&label=Profile%20views&color=0e75b6&style=flat" alt="0xgassin" /> </p>
 
-- 🔭 currently working on [HackPlaza](https://hackplaza.co.uk)
+- 🔭 currently working on [CyberSanctus](https://cybersanctus.com/)
 
 - 👯 looking to collaborate on **Unreal Engine Game Dev**
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [[Currently Unavailable]]([Currently Unavailable])
 
-- 📝 Find vulnerability blogs on [https://hackplaza.co.uk](https://hackplaza.co.uk)
+- 📝 Find vulnerability blogs on [our blog page](https://cybersanctus.com/blogs)
 
-- 📫 Reach me **fvecchi24@protonmail.com**
+- 📫 Reach me **fvecchi@cybersanctus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
