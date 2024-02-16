@@ -5,12 +5,6 @@
 
 - 🔭 currently working on [CyberSanctus](https://cybersanctus.com/)
 
-- 👯 looking to collaborate on **Unreal Engine Game Dev**
-
-- 🤝 I’m looking for help with **NodeJS**
-
-- 👨‍💻 All of my projects are available at [[Currently Unavailable]]([Currently Unavailable])
-
 - 📝 Find vulnerability blogs on [our blog page](https://cybersanctus.com/blogs)
 
 - 📫 Reach me **fvecchi@cybersanctus.com**
