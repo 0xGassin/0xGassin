@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">CyberSanctus | Head of CyberSecurity</h3>
+<h3 align="center">Cyber Security Analyst | OSCP | eJPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xgassin&label=Profile%20views&color=0e75b6&style=flat" alt="0xgassin" /> </p>
 
